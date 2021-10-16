@@ -3,15 +3,15 @@
 
 Assignment 1
 
-Implement a School Method for Integer Addition
+1) Implement a School Method for Integer Addition
 
-Karatsuba Algorithm for Integer Multiplication
+2) Karatsuba Algorithm for Integer Multiplication
 
 Assignment 2
 
-Binary Tree Traversal
+1) Binary Tree Traversal
 
-AVL Tree Insertion and Deletion
+2) AVL Tree Insertion and Deletion
 
 Assignment 3
 
