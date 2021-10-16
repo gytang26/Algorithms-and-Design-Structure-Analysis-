@@ -1,5 +1,5 @@
 # Algorithms-and-Design-Structure-Analysis-
- All assignments were done with C++
+ All assignments were implemented in C++
 
 Assignment 1
 
@@ -15,4 +15,4 @@ Assignment 2
 
 Assignment 3
 
-Hash table with linear probing
+1) Hash table with linear probing
